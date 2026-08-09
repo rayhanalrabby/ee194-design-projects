@@ -4,7 +4,7 @@ Design a 100 W inverter that converts DC (battery or solar) to
 mains-style AC, taken from circuit research through to a
 manufacturable PCB layout in EAGLE.
 
-![Board layout](images/board-layout-routed.PNG)
+![Board layout](images/board-layout-early.png)
 
 ## Approach
 Started from published 100 W inverter topologies, then each of the
