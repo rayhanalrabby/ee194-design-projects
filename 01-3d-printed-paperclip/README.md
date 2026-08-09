@@ -29,6 +29,6 @@ Combined print time for the final two parts: 2h50m.
   constraint faster than any amount of modelling would have.
 
 ---
-EE194 Project-Based Learning, Maynooth University, Year 1 (Nov 2023).
+EE194 Project-Based Learning, Maynooth University, Semester 1, Year 1 (Nov 2023).
 Group of 7 — my contribution: final production design, presentation
 slides, and prototype print prep.
