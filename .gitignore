@@ -18,3 +18,26 @@
 
 # Cache of simulation results
 /simulation_results/
+
+# EAGLE backups and locks
+*.b#?
+*.s#?
+*.l#?
+*.b$?
+*.s$?
+*.l$?
+eagle.epf
+eagle.epf.lck
+*.lck
+
+# Office temp files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# OS cruft
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
